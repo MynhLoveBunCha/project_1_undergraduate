@@ -1,0 +1,33 @@
+base:
+vit3.5
+vit1
+vitphi4
+moto2
+u tron xoay
+khau1:
+vitph8.2
+vitphi6.2
+khau3-4:
+khop3
+pulykhop3_11
+banhdaikhop4
+vitphi2.5l2
+vitphi2.5l3
+vitphi2.6dai12.5
+vitphi2.6
+pulley and belt:
+pulykhau2 - vitdut
+pulyphu18 - vit3.5chopulyphu
+pulyphu - vitchung
+tructrunggian - vitphi2
+pulitructrunggian - vitphi2
+vongbi
+namgiuatruc
+
+daikhop34
+dai1
+dai2
+
+
+57.50mm
+47.30mm
